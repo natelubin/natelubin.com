@@ -1,0 +1,70 @@
+<svg viewBox="0 0 600 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2424ff"></stop>
+      <stop offset="50%" stop-color="#5858ff"></stop>
+      <stop offset="100%" stop-color="#2424ff"></stop>
+    </linearGradient>
+    <linearGradient id="tg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4a4aff"></stop>
+      <stop offset="100%" stop-color="#2424ff"></stop>
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="rgba(36,36,255,0.06)"></stop>
+      <stop offset="100%" stop-color="rgba(36,36,255,0)"></stop>
+    </linearGradient>
+  </defs>
+
+  <rect x="20" y="230" width="560" height="60" rx="8" fill="url(#water)"></rect>
+
+  <g opacity="0.25">
+    <line x1="40" y1="225" x2="560" y2="225" stroke="#2424ff" stroke-width="5"></line>
+    <path d="M155 225 V90 Q300 25 445 90 V225" stroke="#2424ff" stroke-width="4" fill="none"></path>
+  </g>
+
+  <line x1="40" y1="225" x2="560" y2="225" stroke="#2424ff" stroke-width="3.5" stroke-linecap="round"></line>
+  <line x1="40" y1="218" x2="560" y2="218" stroke="#2424ff" stroke-width="1" stroke-linecap="round" opacity="0.35"></line>
+
+  <line x1="155" y1="225" x2="155" y2="75" stroke="url(#tg)" stroke-width="4.5" stroke-linecap="round"></line>
+  <line x1="155" y1="215" x2="155" y2="95" stroke="#2424ff" stroke-width="1.5" opacity="0.2"></line>
+  <line x1="143" y1="140" x2="167" y2="140" stroke="#2424ff" stroke-width="2" opacity="0.5"></line>
+  <line x1="145" y1="180" x2="165" y2="180" stroke="#2424ff" stroke-width="2" opacity="0.5"></line>
+
+  <line x1="445" y1="225" x2="445" y2="75" stroke="url(#tg)" stroke-width="4.5" stroke-linecap="round"></line>
+  <line x1="445" y1="215" x2="445" y2="95" stroke="#2424ff" stroke-width="1.5" opacity="0.2"></line>
+  <line x1="433" y1="140" x2="457" y2="140" stroke="#2424ff" stroke-width="2" opacity="0.5"></line>
+  <line x1="435" y1="180" x2="455" y2="180" stroke="#2424ff" stroke-width="2" opacity="0.5"></line>
+
+  <rect x="147" y="70" width="16" height="8" rx="3" fill="#2424ff"></rect>
+  <rect x="437" y="70" width="16" height="8" rx="3" fill="#2424ff"></rect>
+
+  <path d="M40 225 Q95 50, 155 78" stroke="url(#cg)" stroke-width="2.5" fill="none" stroke-linecap="round"></path>
+  <path d="M155 78 Q300 195, 445 78" stroke="url(#cg)" stroke-width="2.5" fill="none" stroke-linecap="round"></path>
+  <path d="M445 78 Q505 50, 560 225" stroke="url(#cg)" stroke-width="2.5" fill="none" stroke-linecap="round"></path>
+
+  <line x1="80" y1="218" x2="80" y2="155" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="105" y1="218" x2="105" y2="120" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="130" y1="218" x2="130" y2="95" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+
+  <line x1="190" y1="218" x2="190" y2="108" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="220" y1="218" x2="220" y2="130" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="250" y1="218" x2="250" y2="150" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="280" y1="218" x2="280" y2="165" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="300" y1="218" x2="300" y2="172" stroke="#2424ff" stroke-width="1" opacity="0.35"></line>
+  <line x1="320" y1="218" x2="320" y2="165" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="350" y1="218" x2="350" y2="150" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="380" y1="218" x2="380" y2="130" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="410" y1="218" x2="410" y2="108" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+
+  <line x1="470" y1="218" x2="470" y2="95" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="495" y1="218" x2="495" y2="120" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+  <line x1="520" y1="218" x2="520" y2="155" stroke="#2424ff" stroke-width="1" opacity="0.4"></line>
+
+  <rect x="140" y="225" width="30" height="12" rx="2" fill="#2424ff"></rect>
+  <rect x="430" y="225" width="30" height="12" rx="2" fill="#2424ff"></rect>
+
+  <rect x="30" y="222" width="20" height="10" rx="3" fill="#2424ff" opacity="0.6"></rect>
+  <rect x="550" y="222" width="20" height="10" rx="3" fill="#2424ff" opacity="0.6"></rect>
+
+  <line x1="20" y1="240" x2="580" y2="240" stroke="#2424ff" stroke-width="0.5" opacity="0.12"></line>
+</svg>
